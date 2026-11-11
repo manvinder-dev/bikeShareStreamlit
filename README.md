@@ -1,6 +1,9 @@
 # Bike-Share Trip Analysis Dashboard
  
 An interactive dashboard that analyses bike-share trip records to understand travel demand. Built with Python, pandas and Streamlit.
+
+<img width="1467" height="801" alt="image" src="https://github.com/user-attachments/assets/93a639fd-9b6a-47d6-acff-be0b1fd5db43" />
+
  
 ## What it shows
  
