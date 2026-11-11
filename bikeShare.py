@@ -3,7 +3,7 @@ import streamlit as st
 
 #reading the .csv file into a dataframe
 
-df = pd.read_csv("/Users/manvinderrayat/Desktop/Courses/Fall 2026/Integeration Project 2/Individual Project/Data 2/04_bike_share.csv", parse_dates=["start_time"])
+df = pd.read_csv("./Synthetic Bike Share Data.csv", parse_dates=["start_time"])
 
 
 #Terminal Output
